@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "robotjs": "^0.9.1",
+    "serialport": "^13.0.0"
+  }
+}
